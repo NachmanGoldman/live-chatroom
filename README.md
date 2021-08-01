@@ -2,7 +2,7 @@
 A java program that create a live chatroom
 
 
-##Program structure  
+## Program structure  
     The program implements chatroom exe.  
     users can login and chat in forum, with many other users.  
     The program keep the users names & messages in Database.  
