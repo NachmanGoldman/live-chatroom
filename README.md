@@ -1,5 +1,5 @@
 # live-chatroom
-A java program that create a live chatroom
+A java program that creates a live chatroom
 
 
 ## Program structure  
